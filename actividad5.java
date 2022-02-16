@@ -8,8 +8,8 @@ public class actividad5 {
         double x = 5;
         double y = 2;
         //impresion de resultados
-        System.out.println("X: " + x);
-        System.out.println("Y: " + y);
+        System.out.println("X = " + x);
+        System.out.println("Y = " + y);
         //la suma utiliza el operador +
         System.out.println("Suma: " + (x+y));
         //la resta utiliza el operador -
